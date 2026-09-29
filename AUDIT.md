@@ -14,8 +14,8 @@
 
 ## Commit Message Comparison
 
-| Commit | My Message | AI Message | Which is clearer, and why? |
+| Commit | My message | AI message | Which is clearer, and why? |
 |---|---|---|---|
-| 1 | docs: add README |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
+| 1 | performed factorial program | feat: add factorial program | AI message is clearer because it is short, specific, and follows the required format. |
+| 2 | performed Fibonacci and Structure code | feat: add Fibonacci and Structure code | AI message is clearer because it directly describes what was added and follows the class format. |
+| 3 | Implemented python codes | feat: add Python programs | AI message is clearer because it is more specific and uses the required commit format. |
